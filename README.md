@@ -1,0 +1,1 @@
+```docker run -it --rm -p 8082:8082 mockapp:latest --port 8082 --https-port 8443 --verbose```
